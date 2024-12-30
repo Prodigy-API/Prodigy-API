@@ -60,13 +60,6 @@
 - [Prodigy Website](https://github.com/Prodman0011/Prodigywebsite)
 - [Prodigy Multipurpse Bot](https://github.com/Prodman0011/ProdigyMultipurposeBot)
 <!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://dev.to/prodman0011)
-
-### My NPM and PIP Packages
-  
-- [chatbot-discord](https://www.npmjs.com/package/chatbot-discord) 
-- [profile-readme-generator](https://www.npmjs.com/package/profile-readme-generator)
   
   More Soon...
 ### ✍️Random Dev Quote
@@ -74,7 +67,7 @@
 
 
 ### 🎶Spotify List
-  [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31nqkd4reaju3zfynugqtqy5vyj4)](https://open.spotify.com/user/31nqkd4reaju3zfynugqtqy5vyj4)
+  [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31nqkd4reaju3zfynugqtqy5vyj4)](https://open.spotify.com/user/kergir)
   
   
 ### Funny Riddles , Test your brain 🤓
@@ -86,9 +79,6 @@
 ![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
 ![](https://forthebadge.com/images/badges/uses-brains.svg)
 ---
-![Profile_Views](https://komarev.com/ghpvc/?username=prodman0011&style=for-the-badge&label=Visitors+Count&color=brightgreen)
-[![wakatime](https://wakatime.com/badge/user/1d2fda96-c074-4c84-a0d5-31efb131faec.svg/?style=for-the-badge)](https://wakatime.com/@1d2fda96-c074-4c84-a0d5-31efb131faec)
-
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
