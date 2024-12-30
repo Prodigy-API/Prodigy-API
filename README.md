@@ -4,7 +4,7 @@
 
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-  Welcome to Prod's profile!
+  Welcome To Prodigy-API's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
@@ -14,20 +14,20 @@
 ---
 <div align="center">
   
-# 💫About Me :
-🔭 I’m currently working on : Nothing
+# 💫About Prodigy :
+🔭 Currently Working On : Personal/Bot Website & My Branding
   
-🌱 I’m currently learning : Node.js & Python
+🌱 Currently Learning : Node.js, Java & HMTL
 
-  👯 I’m open to collaborate with anyone
+👯 I’m open To Collaborations 
 
-  🤔 I’m Not looking for help
+👨‍💻 Seeking All Support & Tips
 
-  💬 Ask me about for any help
+💬 Ask me about for any help
 
-  📫 How to reach me:  
+📫 Contact:  
   Join my Discord at [Discord](https://discord.gg/xhz64SqHYC) or
-  through love 💖
+  through Email(coming soon) 💖
 
 ⚡ Fun fact: 7 out of 10 consumers find a company via the blog
 
