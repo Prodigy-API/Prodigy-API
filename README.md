@@ -4,7 +4,7 @@
 
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-  Welcome To Prodigy-API's profile!
+  Welcome To REDEngines profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
@@ -32,7 +32,7 @@
 📫 <a href="mailto:support.redengine@proton.me">Send an Email</a></p>
 
 <a href="https://www.youtube.com/@whatsupdwag" target="blank"><img align="center" src="https://githubraw.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codewhiteweb" height="30" width="40" /></a>
-<a href="https://dsc.gg/prodigybot" target="blank"><img align="center" src="https://githubraw.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="codewhiteweb" height="30" width="40" /></a>
+<a href="https://dsc.gg/redenginedsc" target="blank"><img align="center" src="https://githubraw.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="codewhiteweb" height="30" width="40" /></a>
 <a href="https://github.com/Prodigy-API" target="blank"><img align="center" src="https://githubraw.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="codewhiteweb" height="30" width="40" /></a>
 
 
