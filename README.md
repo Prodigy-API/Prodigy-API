@@ -14,12 +14,14 @@
 ---
 <div align="center">
   
-# 💫About Prodigy :
+# 💫About REDEngine :
 🔭 Currently Working On : Personal/Bot Website & My Branding
   
 🌱 Currently Learning : Node.js, Java & HMTL
 
 👯 I’m open To Collaborations 
+
+🤖 Inspiring Systems Technician 
 
 👨‍💻 Seeking All Support & Tips
 
