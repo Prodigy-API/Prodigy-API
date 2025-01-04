@@ -55,8 +55,8 @@
 ### 📕 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Prodigy Bot Website](https://prodigy-api.github.io/ProdigyBotWeb/)
-- [Multipurpse Bot](https://github.com/Prodigy-API/ProdigyMultipurposeBot)
+- [Prodigy Bot Website](https://prodigy-api.github.io/REDEngineBotWeb/)
+- [Multipurpse Botv1](https://github.com/Prodigy-API/Multipurpose-Botv1)
 <!-- BLOG-POST-LIST:END -->
   
   More Soon...
