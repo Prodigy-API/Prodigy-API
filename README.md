@@ -60,6 +60,7 @@
 - [Bot Website](https://prodigy-api.github.io/REDEngineBotWeb/)
 - [Multipurpse Botv1](https://github.com/Prodigy-API/Multipurpose-Botv1)
 - [Personal Portfolio](https://prodigy-api.github.io/)
+- [REDEngineAI ChatBot](https://redengineaichatbot.vercel.app/)
 <!-- BLOG-POST-LIST:END -->
   
   More Soon...
