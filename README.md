@@ -57,8 +57,8 @@
 ### 📕 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bot Website](https://prodigy-api.github.io/REDEngineBotWeb/)
-- [Multipurpse Botv1](https://github.com/Prodigy-API/Multipurpose-Botv1)
+- [RED-AIOv1-Bot](https://github.com/Prodigy-API/RED-AIOv1-Bot)
+- [RED_BOT-LANDING-PAGE](https://prodigy-api.github.io/REDEngineBotWeb/)
 - [Personal Portfolio](https://prodigy-api.github.io/)
 - [REDEngineAI ChatBot](https://redengineaichatbot.vercel.app/)
 <!-- BLOG-POST-LIST:END -->
